@@ -8,7 +8,7 @@ from io import BytesIO
 from fastai import *
 from fastai.vision import *
 
-model_file_url = 'https://drive.google.com/open?id=1P6wHM6HIEgJNysg6gWoHKuKDhBqXeIV-
+model_file_url = 'https://drive.google.com/open?id=1P6wHM6HIEgJNysg6gWoHKuKDhBqXeIV-'
 model_file_name = 'export.pkl'
 classes = ['rino','indian_elephant', 'african_elephant']
 path = Path(__file__).parent
